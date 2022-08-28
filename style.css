@@ -104,7 +104,7 @@ header {
   padding-top: 35px;
 }
 
-.fashion .btn {
+.btn {
   border: 1px solid #2A2A2A;
   margin-top: 30px;
   margin-bottom: 280px;
@@ -148,7 +148,7 @@ footer .logo {
 }
 
 footer .flex-item {
-  text-align-last: left;
+  text-align: left;
 }
 
 footer .title {
